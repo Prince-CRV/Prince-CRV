@@ -87,16 +87,13 @@ Soy un **Desarrollador de Software** con una formación intensiva en **Conquer B
 
 ### 📊 Actividad en GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Prince-CRV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Prince-CRV&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
-</div>
-
-<br/>
-
 <p align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/github-contribution-grid-snake.svg?username=Prince-CRV&palette=github-dark" alt="snake contribution" />
+  <a href="https://github.com/Prince-CRV">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prince-CRV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prince-CRV&layout=compact&langs_count=8&theme=tokyonight"/>
+  </a>
 </p>
+
 
 ---
 
