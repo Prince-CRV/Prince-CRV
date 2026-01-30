@@ -1,18 +1,16 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=8656EB&center=true&vCenter=true&width=700&lines= Hola,+soy+Prince-CRV+👋;Desarrollador+Full+Stack;Alumno+de+Conquer+Blocks" alt="Typing SVG" />
-</p>
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=8656EB&center=true&vCenter=true&width=700&lines=Hola,+soy+Prince-CRV+👋;Desarrollador+Full+Stack;Alumno+de+Conquer+Blocks)
+
+</div>
 
 <p align="center">
   <em>Construyendo software escalable con una base sólida en Ciencias de la Computación, Linux, Backend y Frontend.</em>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/luis-ernesto-valdés-lavaut-340a75279" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:IBISLAVAUT@GMAIL.COM" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://linkedin.com/in/luis-ernesto-valdés-lavaut-340a75279" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:IBISLAVAUT@GMAIL.COM" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Email" /></a>
 </p>
 
 ---
@@ -32,43 +30,60 @@ Soy un **Desarrollador de Software** con una formación intensiva en **Conquer B
 ### 🛠️ Stack Tecnológico
 
 #### 🔹 Lenguajes de Programación
-<table>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=py" width="45" /><br /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=3776AB&center=true&vCenter=true&width=100&lines=Python" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="45" /><br /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=F7DF1E&center=true&vCenter=true&width=100&lines=JavaScript" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="45" /><br /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=3178C6&center=true&vCenter=true&width=100&lines=TypeScript" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="45" /><br /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=ED8B00&center=true&vCenter=true&width=100&lines=Java" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=rust" width="45" /><br /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=DEA584&center=true&vCenter=true&width=100&lines=Rust" /></td>
-  </tr>
-</table>
+<p align="left">
+  &nbsp;<img src="https://skillicons.dev/icons?i=py" width="70" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="70" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" width="70" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" width="70" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=rust" width="70" />
+</p>
+<p align="left">
+  &nbsp&nbsp&nbsp;<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=3776AB&width=90&lines=Python" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=F7DF1E&width=90&lines=JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=3178C6&width=90&lines=TypeScript" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=ED8B00&width=90&lines=Java" />&nbsp;&nbsp;&nbsp;
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=DEA584&width=90&lines=Rust" />&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-#### 🔹 Frontend
-<table>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="45" /><br /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=61DAFB&center=true&vCenter=true&width=100&lines=React" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=astro" width="45" /><br /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=FF5D01&center=true&vCenter=true&width=100&lines=Astro" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vue" width="45" /><br /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=4FC08D&center=true&vCenter=true&width=100&lines=Vue.js" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=angular" width="45" /><br /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=DD0031&center=true&vCenter=true&width=100&lines=Angular" /></td>
-  </tr>
-</table>
+#### 🔹 Frontend (Multi-Framework)
+<p align="left">
+  &nbsp;<img src="https://skillicons.dev/icons?i=react" width="70" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=astro" width="70" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vue" width="70" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=angular" width="70" />
+</p>
+<p align="left">
+  &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=61DAFB&width=90&lines=React" />&nbsp;&nbsp;
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=FF5D01&width=90&lines=Astro" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=4FC08D&width=90&lines=Vue.js" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=DD0031&width=90&lines=Angular" />
+</p>
 
 #### 🔹 Backend & Data
-<table>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=django" width="45" /><br /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=092E20&center=true&vCenter=true&width=100&lines=Django" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="45" /><br /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=339933&center=true&vCenter=true&width=100&lines=Node.js" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="45" /><br /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=4479A1&center=true&vCenter=true&width=100&lines=MySQL" /></td>
-  </tr>
-</table>
+<p align="left">
+  &nbsp;<img src="https://skillicons.dev/icons?i=django" width="70" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" width="70" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" width="70" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/streamlit-icon.png" width="70" />
+</p>
+<p align="left">
+  &nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=092E20&width=90&lines=Django" />&nbsp;&nbsp;
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=339933&width=90&lines=Node.js" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=4479A1&width=90&lines=MySQL" />&nbsp;&nbsp;
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=FF4B4B&width=90&lines=Streamlit" />
+</p>
 
 #### 🔹 Ingeniería & DevOps
-<table>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="45" /><br /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=FCC624&center=true&vCenter=true&width=100&lines=Linux" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="45" /><br /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=F05032&center=true&vCenter=true&width=100&lines=Git" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="45" /><br /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=2496ED&center=true&vCenter=true&width=100&lines=Docker" /></td>
-  </tr>
-</table>
+<p align="left">
+  &nbsp;<img src="https://skillicons.dev/icons?i=linux" width="70" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="70" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" width="70" />
+</p>
+<p align="left">
+  &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=FCC624&width=90&lines=Linux" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=F05032&width=90&lines=Git" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=2496ED&width=90&lines=Docker" />
+</p>
 
 ### 📊 Actividad en GitHub
 
@@ -99,6 +114,8 @@ Soy un **Desarrollador de Software** con una formación intensiva en **Conquer B
 </p>
 
 <p align="center">
-  <b>¿Buscas un desarrollador versátil y sólido?</b><br>
-  📩 <a href="mailto:IBISLAVAUT@GMAIL.COM">¡Hablemos!</a>
+  <b>¿Buscas un desarrollador versátil y sólido?</b><br><br>
+  <a href="mailto:IBISLAVAUT@GMAIL.COM">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=D14836&center=true&vCenter=true&width=200&lines=📩+¡Hablemos!" alt="Typing SVG" />
+  </a>
 </p>
