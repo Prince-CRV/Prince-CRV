@@ -67,10 +67,8 @@ No solo utilizo frameworks; entiendo lo que ocurre "bajo el capó" gracias a mi 
 ### 📊 Actividad en GitHub
 
 <div align="center">
-
-![stats graph](https://github-readme-stats.vercel.app/api?username=Prince-CRV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-![languages graph](https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-CRV&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Prince-CRV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Prince-CRV&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
 </div>
 
 ---
