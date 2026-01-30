@@ -40,7 +40,7 @@ Soy un **Desarrollador de Software** con una formación intensiva en **Conquer B
 <p align="left">
   &nbsp&nbsp&nbsp;<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=3776AB&width=90&lines=Python" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=F7DF1E&width=90&lines=JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=3178C6&width=90&lines=TypeScript" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=3178C6&width=90&lines=TypeScript" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=ED8B00&width=90&lines=Java" />&nbsp;&nbsp;&nbsp;
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=DEA584&width=90&lines=Rust" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
