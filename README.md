@@ -1,118 +1,66 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=8656EB&center=true&vCenter=true&width=700&lines=Hola,+soy+Prince-CRV+👋;Desarrollador+Full+Stack;Alumno+de+Conquer+Blocks)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=8656EB&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Luis+%F0%9F%91%8B;Full+Stack+Developer;Python+%C2%B7+Django+%C2%B7+JavaScript)
 
 </div>
 
 <p align="center">
-  <em>Construyendo software escalable con una base sólida en Ciencias de la Computación, Linux, Backend y Frontend.</em>
+  <em>Ingeniero en Automatización convertido en desarrollador Full Stack.<br>
+  Construyo aplicaciones completas y las pongo en producción.</em>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/luis-ernesto-valdés-lavaut-340a75279" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:IBISLAVAUT@GMAIL.COM" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Email" /></a>
+  <a href="https://linkedin.com/in/luis-ernesto-valdés-lavaut-340a75279" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ibislavaut@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://iglesiacristianaelfaro.com" target="_blank"><img src="https://skillicons.dev/icons?i=htmx" width="45" alt="Web en producción" /></a>
 </p>
 
 ---
 
 ### 🚀 Sobre mí
 
-Soy un **Desarrollador de Software** con una formación intensiva en **Conquer Blocks**. Mi perfil se diferencia por combinar el desarrollo web moderno con fundamentos profundos de ingeniería.
-
-- 🔭 **Adaptabilidad:** Experto en **React, Vue y Angular**.
-- 🛠️ **Backend:** Desarrollo robusto en **Python (Django), Node.js, Java y Rust**.
-- 🐧 **Sistemas:** Especialista en **Terminal de Linux** y despliegue con Docker.
-- ⚡ **Enfoque:** Código limpio (SOLID), arquitecturas desacopladas y alto rendimiento.
-
+- 🎓 **Grado en Ingeniería Automática** (CUJAE) + **Máster en Desarrollo Web Full Stack** en Conquer Blocks (en curso).
+- 🛠️ Trabajo con **Python/Django** en el backend y **JavaScript, HTML y CSS** en el frontend.
+- 🌐 Tengo **proyectos reales en producción**: una web multilingüe con radio en vivo y un bot de trading con su panel de control, funcionando 24/7 en un VPS Linux.
+- 📚 Ampliando stack en el máster: **React · TypeScript · Docker · SQL**.
+- 📍 Tenerife, España.
 
 ---
 
-### 🛠️ Stack Tecnológico
+### 🏆 Proyectos destacados
 
-#### 🔹 Lenguajes de Programación
-<p align="left">
-  &nbsp;<img src="https://skillicons.dev/icons?i=py" width="70" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="70" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" width="70" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" width="70" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=rust" width="70" />
-</p>
-<p align="left">
-  &nbsp&nbsp&nbsp;<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=3776AB&width=90&lines=Python" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=F7DF1E&width=90&lines=JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=3178C6&width=90&lines=TypeScript" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=ED8B00&width=90&lines=Java" />&nbsp;&nbsp;&nbsp;
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=DEA584&width=90&lines=Rust" />&nbsp;&nbsp;&nbsp;&nbsp;
+| Proyecto | Stack | Qué es |
+| :--- | :--- | :--- |
+| **[iglesiacristianaelfaro.com](https://github.com/Prince-CRV/iglesiacristianaelfaro.com)** 🌐 [ver en vivo](https://iglesiacristianaelfaro.com) | `JavaScript` `HTML/CSS` | Web multilingüe (ES/EN/IT) con **radio en vivo 99.5 FM**, Biblia online, eventos y galería. SPA estática sin frameworks, en producción (Render + Cloudflare R2). |
+| **[Trading Automate](https://github.com/Prince-CRV/Trading-Automate)** 🤖 | `Python` `Django` `ccxt` | Bot de trading de futuros (estrategia swing Fibonacci) + **panel de control Django con 2FA**, historial y gráficos en vivo. 24/7 en VPS Linux (Caddy + PM2). |
+| **Plataforma de Estudios Bíblicos** 📖 <sub>(código privado)</sub> | `Python` `Django` `SQLite` | Aplicación web completa: streaming de vídeo, buscador inteligente con tesauro, diccionario de idiomas originales (~14.000 entradas) y exportación a Word/PDF. |
+
+---
+
+### 🛠️ Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,django,js,html,css,sqlite,git,linux,bash,cloudflare&perline=10" alt="Stack" />
 </p>
 
-#### 🔹 Frontend (Multi-Framework)
-<p align="left">
-  &nbsp;<img src="https://skillicons.dev/icons?i=react" width="70" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=astro" width="70" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vue" width="70" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=angular" width="70" />
-</p>
-<p align="left">
-  &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=61DAFB&width=90&lines=React" />&nbsp;&nbsp;
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=FF5D01&width=90&lines=Astro" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=4FC08D&width=90&lines=Vue.js" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=DD0031&width=90&lines=Angular" />
-</p>
+<p align="center"><sub>En formación: React · TypeScript · Docker · MySQL</sub></p>
 
-#### 🔹 Backend & Data
-<p align="left">
-  &nbsp;<img src="https://skillicons.dev/icons?i=django" width="70" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" width="70" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" width="70" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/streamlit-icon.png" width="70" />
-</p>
-<p align="left">
-  &nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=092E20&width=90&lines=Django" />&nbsp;&nbsp;
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=339933&width=90&lines=Node.js" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=4479A1&width=90&lines=MySQL" />&nbsp;&nbsp;
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=FF4B4B&width=90&lines=Streamlit" />
-</p>
-
-#### 🔹 Ingeniería & DevOps
-<p align="left">
-  &nbsp;<img src="https://skillicons.dev/icons?i=linux" width="70" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" width="70" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" width="70" />
-</p>
-<p align="left">
-  &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=FCC624&width=90&lines=Linux" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=F05032&width=90&lines=Git" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=2496ED&width=90&lines=Docker" />
-</p>
+---
 
 ### 📊 Actividad en GitHub
 
 <p align="center">
   <a href="https://github.com/Prince-CRV">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prince-CRV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prince-CRV&layout=compact&langs_count=8&theme=tokyonight"/>
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prince-CRV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prince-CRV&layout=compact&langs_count=8&theme=tokyonight"/>
   </a>
 </p>
 
-
----
-
-### 🏆 Proyectos Destacados
-
-| Proyecto | Stack Principal | Descripción Técnica |
-| :--- | :--- | :--- |
-| **[YouTube API Handler](https://github.com/Prince-CRV/YouTube-API-Handler-by-Prince-CRV)** | `Python` `APIs` | Automatización de métricas y gestión de datos JSON. |
-| **[Arquitectura Django](https://github.com/Prince-CRV/-Mi-Primer-Proyecto-DJANGO)** | `Django` `MVT` | Aplicación escalable con renderizado dinámico. |
-
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=El%20buen%20código%20es%20su%20propia%20mejor%20documentación." />
-</p>
-
-<p align="center">
-  <b>¿Buscas un desarrollador versátil y sólido?</b><br><br>
-  <a href="mailto:IBISLAVAUT@GMAIL.COM">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=D14836&center=true&vCenter=true&width=200&lines=📩+¡Hablemos!" alt="Typing SVG" />
+  <b>¿Buscas un desarrollador que entrega proyectos funcionando, no solo código?</b><br><br>
+  <a href="mailto:ibislavaut@gmail.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=D14836&center=true&vCenter=true&width=200&lines=📩+¡Hablemos!" alt="Contacto" />
   </a>
 </p>
