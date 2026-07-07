@@ -50,17 +50,6 @@
 
 ---
 
-### 📊 Actividad en GitHub
-
-<p align="center">
-  <a href="https://github.com/Prince-CRV">
-    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prince-CRV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prince-CRV&layout=compact&langs_count=8&theme=tokyonight"/>
-  </a>
-</p>
-
----
-
 <p align="center">
   <b>¿Buscas un desarrollador que entrega proyectos funcionando, no solo código?</b><br><br>
   <a href="mailto:ibislavaut@gmail.com">
