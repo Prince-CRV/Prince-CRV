@@ -11,8 +11,11 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/luis-ernesto-valdés-lavaut-340a75279" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:ibislavaut@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://iglesiacristianaelfaro.com" target="_blank"><img src="https://skillicons.dev/icons?i=htmx" width="45" alt="Web en producción" /></a>
+  <a href="mailto:ibislavaut@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <a href="https://iglesiacristianaelfaro.com" target="_blank"><img src="https://img.shields.io/badge/🌐_En_producción-iglesiacristianaelfaro.com-2ea44f?style=for-the-badge" alt="Web en producción" /></a>
 </p>
 
 ---
