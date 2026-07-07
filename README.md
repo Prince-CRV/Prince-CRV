@@ -36,7 +36,7 @@
 | :--- | :--- | :--- |
 | **[iglesiacristianaelfaro.com](https://github.com/Prince-CRV/iglesiacristianaelfaro.com)** 🌐 [ver en vivo](https://iglesiacristianaelfaro.com) | `JavaScript` `HTML/CSS` | Web multilingüe (ES/EN/IT) con **radio en vivo 99.5 FM**, Biblia online, eventos y galería. SPA estática sin frameworks, en producción (Render + Cloudflare R2). |
 | **[Trading Automate](https://github.com/Prince-CRV/Trading-Automate)** 🤖 | `Python` `Django` `ccxt` | Bot de trading de futuros (estrategia swing Fibonacci) + **panel de control Django con 2FA**, historial y gráficos en vivo. 24/7 en VPS Linux (Caddy + PM2). |
-| **Plataforma de Estudios Bíblicos** 📖 <sub>(código privado)</sub> | `Python` `Django` `SQLite` | Aplicación web completa: streaming de vídeo, buscador inteligente con tesauro, diccionario de idiomas originales (~14.000 entradas) y exportación a Word/PDF. |
+| **[Estudios Bíblicos](https://github.com/Prince-CRV/Estudios-Biblicos)** 📖 | `Python` `Django` `SQLite` | Plataforma de estudio versículo a versículo (RVR1960) con buscador inteligente con tesauro, idiomas originales con Strong (~14.000 entradas) y exportación a Word/PDF. |
 
 ---
 
